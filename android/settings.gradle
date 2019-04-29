@@ -1,0 +1,3 @@
+rootProject.name = 'reacthook_2846'
+
+include ':app'
